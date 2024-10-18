@@ -8,7 +8,7 @@ Dosen Pengampu: Agung Nugroho, S.Kom., M.Kom.,
 
 Mata Pelajaran: Bahasa Pemograman
 
-# Kode Python Flowchart sebelumnya
+# Kode Python
 
 ```python
 # Initialize max number to None (to handle the first input)
@@ -35,8 +35,8 @@ else:
 
 Program ini berfungsi untuk menerima input angka dari pengguna secara berulang, mencatat angka terbesar yang dimasukkan, dan berhenti ketika pengguna memasukkan angka 0. Akhirnya, program menampilkan angka terbesar yang telah dimasukkan, atau memberi tahu jika tidak ada angka yang dimasukkan
 
-# Foto Flowchart
+# Foto Flowchart Sebelumnya
 ![Foto](https://github.com/Manueljds2311105/FOTO/blob/main/Flowchart%202.png?raw=true)
 
-# Foto Hasil Kode Python
+# Foto Hasil Eksekusi Kode Python
 ![Foto](https://github.com/Manueljds2311105/FOTO/blob/main/Hasil%20Eksekusi%20Kode%20Python.png?raw=true)
