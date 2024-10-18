@@ -32,4 +32,8 @@ if max_number is not None:
 else:
     print("No numbers were entered.")
 ```
+# Foto Flowchart
+![Foto](https://github.com/Manueljds2311105/FOTO/blob/main/Flowchart%202.png?raw=true)
 
+# Foto Hasil Kode Python
+![Foto](
