@@ -32,6 +32,9 @@ if max_number is not None:
 else:
     print("No numbers were entered.")
 ```
+
+Program ini berfungsi untuk menerima input angka dari pengguna secara berulang, mencatat angka terbesar yang dimasukkan, dan berhenti ketika pengguna memasukkan angka 0. Akhirnya, program menampilkan angka terbesar yang telah dimasukkan, atau memberi tahu jika tidak ada angka yang dimasukkan
+
 # Foto Flowchart
 ![Foto](https://github.com/Manueljds2311105/FOTO/blob/main/Flowchart%202.png?raw=true)
 
