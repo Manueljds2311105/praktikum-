@@ -36,4 +36,4 @@ else:
 ![Foto](https://github.com/Manueljds2311105/FOTO/blob/main/Flowchart%202.png?raw=true)
 
 # Foto Hasil Kode Python
-![Foto](
+![Foto](https://github.com/Manueljds2311105/FOTO/blob/main/Hasil%20Eksekusi%20Kode%20Python.png?raw=true)
