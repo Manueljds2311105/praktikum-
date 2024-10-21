@@ -16,7 +16,7 @@ Mata Pelajaran: Bahasa Pemograman
 
 
 
-# Foto Flowchart Sebelumnya
+# Foto Flowchart sebelumnya yang diubah 
 ![Foto]
 
 # Foto Hasil Eksekusi Kode Python
