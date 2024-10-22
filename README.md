@@ -27,7 +27,7 @@ print("Selesai")
 
 # Penjelasan Kode:
 1. Inisialisasi Max = 0:
-    Variabel Max diinisialisasi dengan nilai 0. Variabel ini akan menyimpan angka terbesar yang dimasukkan oleh pengguna sejauh ini.
+    Variabel Max diinisialisasi dengan nilai 0. Variabel ini akan menyimpan angka terbesar yang dimasukkan
 2. Perulangan while True:
     loop while yang berjalan tanpa henti, Perulangan ini akan terus berjalan sampai memasukkan angka 0, yang berfungsi sebagai tanda untuk menghentikan program.
 3. Input:
