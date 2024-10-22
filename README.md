@@ -37,7 +37,7 @@ Penjelasan:
 ![FOTO](https://github.com/Manueljds2311105/foto/blob/9362d1918ade56ef42ffa83c5139634f80575731/Hasil%20eksekusi%20kode.png)
   
 # Menentukan bilangan terbesar dari N bilangan yang diinputkan, untuk menentukan jumlah N, Masukkan angka 0
-# Kode Python input 0
+# Kode Python input N
 
 ```python
 # Inisialisasi angka maksimal ke 0  
