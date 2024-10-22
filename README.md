@@ -29,7 +29,7 @@ print("Selesai")
 1. Inisialisasi Max = 0:
     - Variabel Max diinisialisasi dengan nilai 0. Variabel ini akan menyimpan angka terbesar yang dimasukkan
 2. Perulangan while True:
-    - loop while/perulangan yang berjalan tanpa henti ini hingga menemukan kondisi break. program akan terus berjalan sampai memasukkan angka 0, yang berfungsi sebagai tanda untuk menghentikan program
+    - loop while/perulangan yang berjalan tanpa henti ini (hingga menemukan kondisi break). program akan terus berjalan sampai memasukkan angka 0, yang berfungsi sebagai tanda untuk menghentikan program
 3. Input:
     - Program meminta untuk memasukkan sebuah angka. Input tersebut kemudian dikonversi menjadi tipe integer dan disimpan dalam variabel N
 4. Memeriksa Angka 0:
@@ -39,7 +39,7 @@ print("Selesai")
     - Jika angka yang dimasukkan lebih besar daripada nilai saat ini dari Max, nilai Max diperbarui menjadi angka tersebut
     - Proses ini memastikan bahwa setiap kali ada angka yang lebih besar dari nilai maksimum sebelumnya, program akan menyimpannya sebagai angka terbesar yang baru
 7. Selesai
-    - Setelah loop berakhir (ketika pengguna memasukkan angka 0), program akan mencetak "Selesai" untuk menandakan akhir dari program
+    - Setelah loop berakhir (ketika memasukkan angka 0), program akan mencetak "Selesai" untuk menandakan akhir dari program
 
 # Foto Flowchart sebelumnya yang diubah 
 ![Foto](https://github.com/Manueljds2311105/foto/blob/5cb587465c0b8e98db2e38c46ae51c6d7063ffd6/Flowchart%202%20Baru.png)
