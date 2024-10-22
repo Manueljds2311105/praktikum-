@@ -9,10 +9,10 @@ Dosen Pengampu: Agung Nugroho, S.Kom., M.Kom.,
 Mata Pelajaran: Bahasa Pemograman
 
 # Menentukan bilangan terbesar dari 3 bilangan yang diinputkan
-# Foto flowchart 3 bilangan 
+# Foto flowchart bilangan terbesar
 ![FOTO](https://github.com/Manueljds2311105/foto/blob/b58f66cd98a9ae7600651efe368eeed0606ac030/flowchart%203%20bilangan.png)
 
-# kode python 3 bilangan
+# kode python bilangan terbesar
 ```python
 # Input 3 bilangan 
 A = int(input("Masukkan nilai A: "))
@@ -33,7 +33,7 @@ Penjelasan:
 - jika tidak, apakah B lebih besar dari A dan C, jika benar B adalah bilangan terbesar
 - jika kedua bilangan A dan B tidak terbesar dari C, Maka C adalah bilangan terbesar dari A dan B
 
-# Foto hasil eksekusi kode program Python 3 bilangan
+# Foto hasil eksekusi kode program Python bilangan terbesar
 ![FOTO](https://github.com/Manueljds2311105/foto/blob/7d94df2e010063d003095b5f4a2603a425215718/Hasil%20kode%203%20bilangan.png)
   
 # Menentukan bilangan terbesar dari N bilangan yang diinputkan, untuk menentukan jumlah N, Masukkan angka 0
@@ -70,7 +70,7 @@ print("Selesai")
 7. Selesai
     - Setelah loop berakhir (ketika memasukkan angka 0), program akan mencetak "Selesai" untuk menandakan akhir dari program
 
-# Foto Flowchart sebelumnya yang diubah 
+# Foto Flowchart Input N
 ![Foto](https://github.com/Manueljds2311105/foto/blob/b58f66cd98a9ae7600651efe368eeed0606ac030/Flowchart%20input%200.png)
 
 # Foto Hasil Eksekusi Kode Python input N
