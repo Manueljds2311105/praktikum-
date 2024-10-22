@@ -27,8 +27,15 @@ elif B > A and B > C:
 else:
     print("C adalah bilangan terbesar")
 ```
+Penjelasan:
+- Program meminta input berupa tiga bilangan A, B, Dan C
+- Setelah itu, program memeriksa apakah A lebih besar dari B dan C, jika benar A adalah bilangan terbesar
+- jika tidak, apakah B lebih besar dari A dan C, jika benar B adalah bilangan terbesar
+- jika kedua bilangan A dan B tidak terbesar, Maka C adalah bilangan terbesar dari A dan B
 
-
+# Foto hasil eksekusi kode program 3 bilangan
+![FOTO]()
+  
 # Menentukan bilangan terbesar dari N bilangan yang diinputkan, untuk menentukan jumlah N, Masukkan angka 0
 # Kode Python input 0
 
