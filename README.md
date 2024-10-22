@@ -25,7 +25,19 @@ while True:
 print("Selesai")
 ```
 
-
+# Penjelasan Kode:
+1. Inisialisasi Max = 0:
+Anda menginisialisasi variabel Max dengan nilai 0, yang akan digunakan untuk menyimpan angka terbesar yang dimasukkan oleh pengguna.
+2. Perulangan while True:
+Perulangan ini akan terus berjalan sampai pengguna memasukkan angka 0, yang berfungsi sebagai tanda untuk menghentikan program.
+3. Menerima Input:
+Program meminta pengguna memasukkan angka dengan input(). Input tersebut dikonversi ke tipe integer dengan int().
+4. Memeriksa Angka 0:
+Jika pengguna memasukkan angka 0, program akan mencetak "Selesai" dan menampilkan angka terbesar yang ditemukan sejauh ini (variabel Max). Setelah itu, program keluar dari loop menggunakan break.
+5. Memperbarui Nilai Max:
+Jika angka yang dimasukkan lebih besar daripada nilai saat ini dari Max, nilai Max diperbarui menjadi angka tersebut.
+6. Mencetak Angka Terbesar:
+Setelah perulangan selesai (saat n == 0), program mencetak angka terbesar yang dimasukkan oleh pengguna menggunakan print("Angka terbesar adalah: " + str(Max)). Fungsi str() digunakan untuk mengonversi angka (integer) ke string 
 
 # Foto Flowchart sebelumnya yang diubah 
 ![Foto](https://github.com/Manueljds2311105/foto/blob/5cb587465c0b8e98db2e38c46ae51c6d7063ffd6/Flowchart%202%20Baru.png)
