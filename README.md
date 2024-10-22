@@ -33,8 +33,8 @@ Penjelasan:
 - jika tidak, apakah B lebih besar dari A dan C, jika benar B adalah bilangan terbesar
 - jika kedua bilangan A dan B tidak terbesar, Maka C adalah bilangan terbesar dari A dan B
 
-# Foto hasil eksekusi kode program 3 bilangan
-![FOTO](https://github.com/Manueljds2311105/foto/blob/9362d1918ade56ef42ffa83c5139634f80575731/Hasil%20eksekusi%20kode.png)
+# Foto hasil eksekusi kode program Python 3 bilangan
+![FOTO](https://github.com/Manueljds2311105/foto/blob/7d94df2e010063d003095b5f4a2603a425215718/Hasil%20kode%203%20bilangan.png)
   
 # Menentukan bilangan terbesar dari N bilangan yang diinputkan, untuk menentukan jumlah N, Masukkan angka 0
 # Kode Python input N
@@ -73,5 +73,5 @@ print("Selesai")
 # Foto Flowchart sebelumnya yang diubah 
 ![Foto](https://github.com/Manueljds2311105/foto/blob/b58f66cd98a9ae7600651efe368eeed0606ac030/Flowchart%20input%200.png)
 
-# Foto Hasil Eksekusi Kode Python input 0
+# Foto Hasil Eksekusi Kode Python input N
 ![Foto](https://github.com/Manueljds2311105/foto/blob/b58f66cd98a9ae7600651efe368eeed0606ac030/Hasil%20eksekusi%20kode%20python.png)
