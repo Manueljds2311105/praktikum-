@@ -15,9 +15,9 @@ Mata Pelajaran: Bahasa Pemograman
 # kode python 3 bilangan
 ```python
 # Input 3 bilangan 
-A = float(input("Masukkan nilai A: "))
-B = float(input("Masukkan nilai B: "))
-C = float(input("Masukkan nilai C: "))
+A = int(input("Masukkan nilai A: "))
+B = int(input("Masukkan nilai B: "))
+C = int(input("Masukkan nilai C: "))
 
 # Mengecek bilangan terbesar
 if A > B and A > C:
