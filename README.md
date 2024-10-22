@@ -31,7 +31,7 @@ Penjelasan:
 - Program meminta input tiga bilangan A, B, Dan C
 - Setelah itu, program memeriksa apakah A lebih besar dari B dan C, jika benar A adalah bilangan terbesar
 - jika tidak, apakah B lebih besar dari A dan C, jika benar B adalah bilangan terbesar
-- jika kedua bilangan A dan B tidak terbesar, Maka C adalah bilangan terbesar dari A dan B
+- jika kedua bilangan A dan B tidak terbesar dari C, Maka C adalah bilangan terbesar dari A dan B
 
 # Foto hasil eksekusi kode program Python 3 bilangan
 ![FOTO](https://github.com/Manueljds2311105/foto/blob/7d94df2e010063d003095b5f4a2603a425215718/Hasil%20kode%203%20bilangan.png)
