@@ -1,6 +1,6 @@
 # PRAKTIKUM 3 KODE PYTHON DARI FLOWCHART
 
-Nama: Manuel johansen Dolok Saribu
+Nama: Manuel Johansen Dolok Saribu
 
 Nim: 312410493
 
