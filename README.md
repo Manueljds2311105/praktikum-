@@ -70,7 +70,7 @@ print("Selesai")
 7. Selesai
     - Setelah loop berakhir (ketika memasukkan angka 0), program akan mencetak "Selesai" untuk menandakan akhir dari program
 
-# Foto Flowchart Input N
+# Foto Flowchart Input N yang diubah
 ![Foto](https://github.com/Manueljds2311105/foto/blob/b58f66cd98a9ae7600651efe368eeed0606ac030/Flowchart%20input%200.png)
 
 # Foto Hasil Eksekusi Kode Python input N
