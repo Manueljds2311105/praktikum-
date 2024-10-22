@@ -30,7 +30,7 @@ print("Selesai")
     - Variabel Max diinisialisasi dengan nilai 0. Variabel ini akan menyimpan angka terbesar yang dimasukkan
 2. Perulangan while True:
     - loop while/perulangan yang berjalan tanpa henti ini (hingga menemukan kondisi break). program akan terus berjalan sampai memasukkan angka 0, yang berfungsi sebagai tanda untuk menghentikan program
-3. Input:
+3. int(Input:
     - Program meminta untuk memasukkan sebuah angka. Input tersebut kemudian dikonversi menjadi tipe integer dan disimpan dalam variabel N
 4. Memeriksa Angka 0:
     - Jika memasukkan angka 0, program akan menampilkan angka terbesar yang ada di (variabel Max)
