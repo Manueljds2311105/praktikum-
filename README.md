@@ -8,7 +8,19 @@ Dosen Pengampu: Agung Nugroho, S.Kom., M.Kom.,
 
 Mata Pelajaran: Bahasa Pemograman
 
-# Kode Python
+
+
+
+
+
+
+
+
+
+
+
+
+# Kode Python input 0
 
 ```python
 # Inisialisasi angka maksimal ke 0  
@@ -42,7 +54,7 @@ print("Selesai")
     - Setelah loop berakhir (ketika memasukkan angka 0), program akan mencetak "Selesai" untuk menandakan akhir dari program
 
 # Foto Flowchart sebelumnya yang diubah 
-![Foto]
+![Foto](https://github.com/Manueljds2311105/foto/blob/b58f66cd98a9ae7600651efe368eeed0606ac030/Flowchart%20input%200.png)
 
-# Foto Hasil Eksekusi Kode Python
-![Foto]
+# Foto Hasil Eksekusi Kode Python input 0
+![Foto](https://github.com/Manueljds2311105/foto/blob/b58f66cd98a9ae7600651efe368eeed0606ac030/Hasil%20eksekusi%20kode%20python.png)
