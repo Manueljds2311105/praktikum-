@@ -6,7 +6,7 @@ Nim: 312410493
 
 Dosen Pengampu: Agung Nugroho, S.Kom., M.Kom.,
 
-Mata Pelajaran: Bahasa Pemograman
+Mata Kuliah: Bahasa Pemograman
 
 # Menentukan bilangan terbesar dari 3 bilangan yang diinputkan
 # Foto flowchart bilangan terbesar
